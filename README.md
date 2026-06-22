@@ -84,14 +84,3 @@ The best.pt file contains the trained YOLOv8 model optimized for underwater obje
 - 🏊 Safety monitoring in swimming areas
 - 📊 Marine biodiversity studies
 
-### License
-
-[Specify your license here - MIT, Apache 2.0, etc.]
-
-### Author
-
-[Your Name/Organization]
-
----
-
-Feel free to customize this description with your specific details, license information, and add any additional sections like "Results," "Contributing," or "Acknowledgments" as needed!
