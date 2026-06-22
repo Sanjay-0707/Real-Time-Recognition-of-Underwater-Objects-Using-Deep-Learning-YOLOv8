@@ -1,19 +1,3 @@
-# YoloV8-Detection
-Real Time Recognition Of Underwater Images Using Deep Learning Techniques
-Optimized tool selectionI'll examine the project files to create a description for you. Let me start by reading the README and notebook files.   
-
-Read [](file:///d%3A/IT%20projects/Projects/Underwater-Detection-main/README.md)
-
-Read [](file:///d%3A/IT%20projects/Projects/Underwater-Detection-main/detection.ipynb#1-1), lines 1 to 50
-
-Read [](file:///d%3A/IT%20projects/Projects/Underwater-Detection-main/a.cs#1-1), lines 1 to 50
-
-Read [](file:///d%3A/IT%20projects/Projects/Underwater-Detection-main/yD.ipynb#1-1), lines 1 to 80
-
-Based on the project files, here's a comprehensive GitHub description for your Underwater Detection project:
-
----
-
 ## 🐠 Underwater Detection - YOLOv8
 
 **Real-Time Recognition of Underwater Objects Using Deep Learning**
